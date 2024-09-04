@@ -1,2 +1,2 @@
 # my-first-repo
-![rafke](rafke selfie.jpg)
+![rafke](rafkeselfie.jpg)
